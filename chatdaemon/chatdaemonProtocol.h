@@ -18,7 +18,7 @@
 /*
  To use the service from an application or other process, use NSXPCConnection to establish a connection to the service by doing something like this:
 
-     _connectionToService = [[NSXPCConnection alloc] initWithServiceName:@"com.michaelverges.chatdaemon"];
+     _connectionToService = [[NSXPCConnection alloc] initWithServiceName:@"com.mozzpop.chatdaemon"];
      _connectionToService.remoteObjectInterface = [NSXPCInterface interfaceWithProtocol:@protocol(chatdaemonProtocol)];
      [_connectionToService resume];
 

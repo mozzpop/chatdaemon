@@ -252,7 +252,7 @@
 				DEVELOPMENT_TEAM = NB4XDB925U;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = chatdaemon/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.michaelverges.chatdaemon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mozzpop.chatdaemon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -266,7 +266,7 @@
 				DEVELOPMENT_TEAM = NB4XDB925U;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = chatdaemon/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.michaelverges.chatdaemon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mozzpop.chatdaemon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
